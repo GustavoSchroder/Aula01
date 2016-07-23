@@ -1,0 +1,15 @@
+Soma de 0.0 por 1 ->  1.0
+Soma de 1.0 por 4 ->  5.0
+Soma de 5.0 por 5 ->  10.0
+Soma de 10.0 por 9 ->  19.0
+Subt de 19.0 por 9 ->  10.0
+Subt de 10.0 por 34 ->  -24.0
+Subt de -24.0 por 9 ->  -33.0
+Divisao de -33.0 por 3 ->  -11.0
+Divisao de -11.0 por 6 ->  -1.8333333333333333
+Divisao de -1.8333333333333333 por 4 ->  -0.4583333333333333
+Mult de -0.4583333333333333 por 2 ->  -2.4583333333333335
+Mult de -0.9166666666666666 por 7 ->  -7.916666666666667
+
+
+Resultado da operação: -6.416666666666666
